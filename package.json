@@ -22,6 +22,7 @@
     
   },
   "scripts": {
-    "start": "node server.js && webpack -w && http-server"
+    "start": "node server.js",
+    "serve": "http-server"
   }
 }
